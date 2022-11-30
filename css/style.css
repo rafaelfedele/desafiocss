@@ -47,7 +47,7 @@
         position            : relative;
         width               : 80px;
         height              : 80px;
-        background-image    : url("/img/Logo-1.png");
+        background-image    : url("../img/Logo-1.png");
         background-position : left;
         background-repeat   : no-repeat;
         background-size     : contain;
@@ -101,7 +101,7 @@
             height                : 100%;
             padding-top           : 130px;
             padding-bottom        : 30px;
-            background-image      : url("/img/Background-1.jpg");
+            background-image      : url('../img/Background-1.jpg');
             background-position   : center;
             background-repeat     : no-repeat;
             background-size       : cover;
@@ -226,7 +226,7 @@
 
     /*=====|| INICIO SECÃO SOBRE MIM ||=====-*/
         #sobremim{
-            background-image      : url("/img/Background-2.jpg");
+            background-image      : url("../img/Background-2.jpg");
             background-position   : center;
             background-size       : contain;
             background-attachment : fixed;
@@ -317,7 +317,7 @@
 
 /*=====|| INICIO DO RODAPÉ ||=====-*/
     #rodape{
-        background-image      : url("/img/Background-2.jpg");
+        background-image      : url("../img/Background-2.jpg");
         background-position   : center;
         background-size       : contain;
         background-attachment : fixed;
